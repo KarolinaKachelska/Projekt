@@ -1,0 +1,8 @@
+karo 16
+gosc 16
+ordi 15
+karo 14
+karo 0
+ordi 0
+karo 0
+gosc 0
