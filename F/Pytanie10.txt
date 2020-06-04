@@ -1,0 +1,6 @@
+Przyklad transportu
+Samolot
+Auto 
+Autobus
+Pociag
+Statek

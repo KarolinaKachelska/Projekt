@@ -1,0 +1,6 @@
+Rodzaj gry
+Planszowa
+Karciana
+Komputerowa
+Platformowka
+Szczelanka
